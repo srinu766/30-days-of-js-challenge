@@ -123,4 +123,4 @@ console.log("Or:", (n3 > 10) || (n4 < 4));
 // 3. Ternary Operator Script:
 let x7 = 5;
 let result10 = (x7 > 0) ? "Positive" : "Negative";
-console.log(result10); // Output: "Positive"
+console.log(result10); // Output: "Positive "
